@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { PushNotifications } from '@capacitor/push-notifications';
 import { Geolocation } from '@capacitor/geolocation'; 
+
 declare var BTPrinter:any;
 @Component({
   selector: 'app-home',
