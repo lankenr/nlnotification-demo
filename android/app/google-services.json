@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780311890438",
+    "project_id": "nl-notification-demo",
+    "storage_bucket": "nl-notification-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780311890438:android:935ed4b3d68f6ba095d187",
+        "android_client_info": {
+          "package_name": "com.nlretailware.notificationdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyIpDYHpncZnRKUhSjzejV_I3rDW6LWbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

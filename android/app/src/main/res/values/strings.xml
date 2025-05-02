@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">notification-demo</string>
+    <string name="title_activity_main">notification-demo</string>
+    <string name="package_name">com.nlretailware.notificationdemo</string>
+    <string name="custom_url_scheme">com.nlretailware.notificationdemo</string>
+</resources>
