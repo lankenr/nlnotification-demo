@@ -29,8 +29,7 @@ printList(){
     console.log("success!");
     console.log(JSON.stringify(data));
     this.myList=data;
-    this.myList=data;
-},
+    },
 function(err:any){
 console.log("error");
 console.log(JSON.stringify(err));
